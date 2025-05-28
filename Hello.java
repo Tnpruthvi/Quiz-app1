@@ -18,8 +18,4 @@ public class Listeners implements ITestListener{
 		
 	}
 
-	@Override
-	public void onTestFailure(ITestResult result) {
-		// TODO Auto-generated method stub
-		ITestListener.super.onTestFailure(result);
-	}
+	
