@@ -13,9 +13,4 @@ public class Listeners implements ITestListener{
 	}
 
 
-	@Override
-	public void onTestSuccess(ITestResult result) {
-		
-	}
-
 	
